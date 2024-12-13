@@ -1,1 +1,1 @@
-# -RapidRubik-sCubeSolverUsingIDA-
+# -RapidRubik-sCubeSolverUsingIDA
